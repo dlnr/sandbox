@@ -58,3 +58,5 @@
 	</footer><!-- .entry-footer -->
 
 </article><!-- #post-## -->
+
+<?php wpk_scrollpost($post->ID); ?>
